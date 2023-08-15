@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaletaTen</string>
+    <string name="search">Search...</string>
+    <string name="placeholder_search">Search...</string>
+    <string name="pokemon_logo_name">Pokemon Logo</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
